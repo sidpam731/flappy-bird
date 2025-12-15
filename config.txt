@@ -1,0 +1,3 @@
+health=1
+win_con=20
+next_heal=4
